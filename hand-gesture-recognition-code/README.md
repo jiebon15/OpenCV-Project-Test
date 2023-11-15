@@ -1,22 +1,15 @@
 source : https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
 
 
-### Prerequisites for this project:
+# Prerequisites for this project:
 1. Python – 3.x (we used Python 3.8.8 in this project)
-2. OpenCV – 4.5
-
-
-Run “pip install opencv-python” to install OpenCV.
-3. MediaPipe – 0.8.5
-
-Run “pip install mediapipe” to install MediaPipe.
-4. Tensorflow – 2.5.0
-
-Run “pip install tensorflow” to install the tensorflow module.
+2. OpenCV – 4.5 Run “pip install opencv-python” to install OpenCV.
+3. MediaPipe – 0.8.5 Run “pip install mediapipe” to install MediaPipe.
+4. Tensorflow – 2.5.0 Run “pip install tensorflow” to install the tensorflow module.
 5. Numpy – 1.19.3
 
 
-Steps to solve the project:
+# Steps to solve the project:
 Import necessary packages.
 Initialize models.
 Read frames from a webcam.
@@ -26,7 +19,6 @@ Step 1 – Import necessary packages:
 To build this Hand Gesture Recognition project, we’ll need four packages. So first import these.
 
 # import necessary packages for hand gesture recognition project using Python OpenCV
-
 import cv2
 import numpy as np
 import mediapipe as mp
