@@ -10,13 +10,13 @@ source : https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-op
 
 
 # Steps to solve the project:
-Import necessary packages.
-Initialize models.
-Read frames from a webcam.
-Detect hand keypoints.
-Recognize hand gestures.
-Step 1 – Import necessary packages:
-To build this Hand Gesture Recognition project, we’ll need four packages. So first import these.
+- Import necessary packages.
+- Initialize models.
+- Read frames from a webcam.
+- Detect hand keypoints.
+- Recognize hand gestures.
+- Step 1 – Import necessary packages:
+- To build this Hand Gesture Recognition project, we’ll need four packages. So first import these.
 
 # import necessary packages for hand gesture recognition project using Python OpenCV
 import cv2
