@@ -1,7 +1,7 @@
 source : https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
 
 
-Prerequisites for this project:
+### Prerequisites for this project:
 1. Python – 3.x (we used Python 3.8.8 in this project)
 2. OpenCV – 4.5
 
