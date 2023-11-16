@@ -1,4 +1,5 @@
 # import necessary packages
+# menambahkan komen
 
 import cv2
 import numpy as np
