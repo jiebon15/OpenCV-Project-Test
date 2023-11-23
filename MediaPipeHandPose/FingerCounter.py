@@ -5,7 +5,7 @@ import HandTrackingModule as htm
 
 wCam, hCam = 640, 480
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 cap.set(3, wCam)
 cap.set(4, hCam)
 
@@ -42,4 +42,9 @@ while True:
         print(totalFingers)
 
     cv2.imshow("Image", img)
-    cv2.waitKey(1)
+
+    if cv2.waitKey(10) & 0xFF == ord('q'):
+        break
+
+cap.release()
+cv2.destroyAllWindows()
