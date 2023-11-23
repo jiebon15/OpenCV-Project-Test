@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\hand-gesture-recognition-code"
+    "\\hand-gesture-recognition-code",
+    "\\MediaPipeHandPose"
   ],
-  "SelectedNode": "\\hand-gesture-recognition-code\\TechVidvan-hand_gesture_detection.py",
+  "SelectedNode": "\\MediaPipeHandPose\\HandTrackingModule.py",
   "PreviewInSolutionExplorer": false
 }
