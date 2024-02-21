@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Finger Count",
     "\\hand-gesture-recognition-code",
     "\\MediaPipeHandPose"
   ],
-  "SelectedNode": "\\MediaPipeHandPose\\HandTrackingModule.py",
+  "SelectedNode": "\\MediaPipeHandPose\\FingerCounter.py",
   "PreviewInSolutionExplorer": false
 }
